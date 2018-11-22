@@ -1,0 +1,5 @@
+<resources>
+    <string name="android_API_key">AIzaSyBZa-soFFqEwL3ANsiPehC7dhBl9t1caCY</string>
+    <string name="app_name">Lab_5</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
